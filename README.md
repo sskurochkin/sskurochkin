@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Semen Kurochkin</h1>
+<h1 align="center">Hi 👋, I'm Semyon Kurochkin</h1>
 <h3 align="center">A passionate frontend developer from Minsk, Belarus</h3>
 
 - 🌱 I’m currently learning **React, Redux**

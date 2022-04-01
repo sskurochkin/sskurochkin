@@ -1,7 +1,7 @@
 
 <!---- 👋 Hi, I’m @sskurochkin
 - 👀 I’m interested in swimming, cycling, photo, webdev
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on any IT company))))
 - 📫 How to reach me semenkurochkin@gmail.com
 
